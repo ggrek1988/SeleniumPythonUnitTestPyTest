@@ -1,0 +1,12 @@
+pytest -v -s Allurereports\test_orangehrm.py
+
+allure reports
+
+pytest -v -s --alluredir = "C:\Users\ggrek\PycharmProjects\SeleniumPython\Allurereports\reports" Allurereports\test_orangehrm.py
+
+generowanie allure przez cmd
+allure serve C:\Users\ggrek\PycharmProjects\SeleniumPython\reports
+
+raport at html
+
+pytest -v -s --capture=tee-sys --html=.\reports\report.html --self-contained-html test_orangehrm.py
