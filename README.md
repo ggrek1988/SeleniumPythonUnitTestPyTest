@@ -5,10 +5,10 @@ demo.automationtesting.in/Windows.html
 testautomationpractice.blogspot.com/
 opensource-demo.orangehrmlive.com/
 dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
-www.expedia.com"
-www.python.org
-www.amazon.in
-www.flagi-panstw.pl/rejestr"
+expedia.com"
+python.org
+amazon.in
+flagi-panstw.pl/rejestr"
 fs2.formsite.com/meherpavan/form2/index.html?1537702596407
 
 ## **Tools**
